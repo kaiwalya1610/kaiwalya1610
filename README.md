@@ -200,7 +200,7 @@ A real-time marine perception stack fusing **RGB, IR, and radar** with custom dr
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="./boat.png" alt="Autonomous USV — perception, SLAM, and path planning" width="100%"/>
+<img src="./assets/project-autonomous-usv.png" alt="Autonomous USV — perception, SLAM, and path planning" width="100%"/>
 
 </td>
 </tr>
