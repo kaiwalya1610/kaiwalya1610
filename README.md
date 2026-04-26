@@ -13,7 +13,7 @@
 <!-- ───── ANIMATED IDENTITY ───── -->
 
 <a href="https://github.com/kaiwalya1610">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00F5FF&center=true&vCenter=true&multiline=false&width=720&height=42&lines=%3E+initializing+neural+stack...;%3E+deploying+autonomous+systems+at+sea;%3E+training+LLMs+on+classified+corpora;%3E+accelerating+algorithms+on+CUDA+kernels;%3E+architecting+fintech+for+500%2C000%2B+users" alt="typing identity"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00F5FF&center=true&vCenter=true&multiline=false&width=720&height=42&lines=%3E+initializing+neural+stack...;%3E+deploying+autonomous+systems+at+sea;%3E+building+secure+RAG+for+mission-critical+docs;%3E+accelerating+algorithms+on+CUDA+kernels;%3E+architecting+fintech+for+500%2C000%2B+users" alt="typing identity"/>
 </a>
 
 <br/>
@@ -200,7 +200,7 @@ A real-time marine perception stack fusing **RGB, IR, and radar** with custom dr
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="./assets/project-autonomous-usv.png" alt="Autonomous USV — perception, SLAM, and path planning" width="100%"/>
+<img src="./boat.png" alt="Autonomous USV — perception, SLAM, and path planning" width="100%"/>
 
 </td>
 </tr>
