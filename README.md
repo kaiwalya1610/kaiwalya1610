@@ -3,7 +3,7 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/kaiwalya1610">
-  <img src="./linkedin%20banner.png" alt="Kaiwalya Gondchar — AI Engineer, LLMs, Autonomous Systems, Fintech Intelligence" width="100%"/>
+  <img src="./assets/hero-banner.png" alt="Kaiwalya Gondchar — AI Engineer, LLMs, Autonomous Systems, Fintech Intelligence" width="100%"/>
 </a>
 
 <div style="font-family: 'Fira Code', 'Fira Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;">
@@ -15,6 +15,27 @@
 <a href="https://github.com/kaiwalya1610">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00F5FF&center=true&vCenter=true&multiline=false&width=720&height=42&lines=%3E+initializing+neural+stack...;%3E+deploying+autonomous+systems+at+sea;%3E+training+LLMs+on+classified+corpora;%3E+accelerating+algorithms+on+CUDA+kernels;%3E+architecting+fintech+for+500%2C000%2B+users" alt="typing identity"/>
 </a>
+
+<br/>
+
+<!-- ───── IMPACT STRIP ───── -->
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <strong>500K+</strong><br/>
+  <sub>fintech users served</sub>
+</td>
+<td align="center" width="33%">
+  <strong>13×</strong><br/>
+  <sub>USV path-planning speedup</sub>
+</td>
+<td align="center" width="33%">
+  <strong>99.998%</strong><br/>
+  <sub>uptime through traffic surge</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -49,29 +70,11 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### `>` whoami
 
-I build **AI systems that ship to production** — from autonomous surface vessels patrolling open water for the Indian Navy, to agentic LLMs serving half a million users in fintech, to a CUDA-accelerated computer-vision pipeline that earned a global sports-innovation award.
+I build **AI systems that survive contact with production** — agentic fintech copilots for 500K+ users, autonomous USVs for Indian Navy trials, and CUDA-accelerated vision systems for live sports broadcasts.
 
-I'm happiest at the seam where **deep learning meets hard real-time constraints**: GPS-denied SLAM, on-premise RAG over classified PDFs, BERT models extracting merchants from raw transaction blobs, A\* path-planners squeezed for a 1,200% speedup.
-
-My stack moves freely between **Python, C/C++, CUDA, TypeScript** and I've shipped on AWS, Bedrock, Digital Ocean, and bare-metal on-prem servers — whichever the mission demands.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaiwalya1610&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e27&title_color=00f5ff&icon_color=ff006e&text_color=e0e0e0&ring_color=00f5ff&hide=stars&font=Fira%20Code"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiwalya1610&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=stars&font=Fira%20Code" alt="github stats"/>
-</picture>
-
-</td>
-</tr>
-</table>
+My edge is the messy middle where **ML, systems, and product scale** collide: GPS-denied SLAM, air-gapped RAG, BERT-based transaction intelligence, Bedrock agents, and GPU kernels pushed until latency stops complaining.
 
 <br/>
 
@@ -157,11 +160,37 @@ My stack moves freely between **Python, C/C++, CUDA, TypeScript** and I've shipp
 
 <br/>
 
+### 💸  `OP-01` · Vola Bank Analytics + Dinero Chat
+> **Client:** Vola Finance · **Role:** Data Scientist, Product & Growth · **Stack:** AWS Bedrock · EC2 · ElastiCache · BERT
+
+<table>
+<tr>
+<td width="40%" valign="top" align="center">
+
+<img src="./assets/project-vola-bank-analytics.png" alt="Vola Bank Analytics + Dinero Chat" width="100%"/>
+
+</td>
+<td width="60%" valign="top">
+
+**Problem:** Raw banking data is noisy, user intent is messy, and financial insights have to feel instant at consumer scale.
+
+**System:** Built a bank-analytics surface for **500,000+ users** with **Dinero Chat**, a production agentic AI on **AWS Bedrock** using prompt routing, guardrails, tool-calling, and ElastiCache-backed sessions.
+
+**Impact:** Hit `92%` categorization accuracy, improved forecasting precision by `40%`, caught irregular spending at `98%` precision, and used **BERT NER** to extract merchant names from raw Plaid transaction blobs.
+
+<sub>`500K+` users   •   `99.998%` uptime through `300%+` traffic surge   •   `+25%` weekly engagement</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
 <table>
 <tr>
 <td width="60%" valign="top">
 
-### 🛰️  `OP-01` · Autonomous USV — Perception, SLAM & Path Planning
+### 🛰️  `OP-02` · Autonomous USV — Perception, SLAM & Path Planning
 > **Client:** Indian Navy (IDEX) · **Role:** Lead Developer · **Stack:** C++ · ROS · CUDA · SLAM · Sensor Fusion
 
 A real-time marine perception stack fusing **RGB, IR, and radar** with custom drivers, married to a **SLAM + IMU + GPS + RADAR** odometry pipeline that holds dead-reckoning in GPS-denied waters. A proprietary **A\* variant** delivered a **13× (1,200%)** speedup in live navigation while cutting compute overhead by **90%**.
@@ -171,7 +200,7 @@ A real-time marine perception stack fusing **RGB, IR, and radar** with custom dr
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="./autonomous_boat.webp" alt="Autonomous USV — perception, SLAM, and path planning" width="100%"/>
+<img src="./assets/project-autonomous-usv.png" alt="Autonomous USV — perception, SLAM, and path planning" width="100%"/>
 
 </td>
 </tr>
@@ -179,21 +208,12 @@ A real-time marine perception stack fusing **RGB, IR, and radar** with custom dr
 
 ---
 
-### 🧠  `OP-02` · QBMS — On-Premise RAG over Classified Corpora
+### 🧠  `OP-03` · QBMS — On-Premise RAG over Classified Corpora
 > **Client:** Indian Navy · **Role:** Lead Developer · **Stack:** Python · Fine-tuned LLMs · KV-Cache Optimization
 
 Architected a **secure, air-gapped RAG system** with fine-tuned LLMs that auto-generates question banks from complex PDFs — **100% data sovereignty**, zero cloud egress. An optimized **Key-Value Cache** strategy slashed document-processing latency by **45%**, and human-in-the-loop semantic search lifted answer relevance by **30%**.
 
 <sub>`60%` faster content production   •   `45%` lower latency   •   `100%` on-prem & compliant</sub>
-
----
-
-### 💸  `OP-03` · Vola Bank Analytics + Dinero Chat
-> **Client:** Vola Finance · **Role:** Data Scientist, Product & Growth · **Stack:** AWS Bedrock · EC2 · ElastiCache · BERT
-
-A bank-analytics surface for **500,000+ users** — `92%` categorization accuracy, `40%` better forecasting precision. Shipped **Dinero Chat**, a production agentic AI on **AWS Bedrock** with prompt routing, guardrails, tool-calling, and ElastiCache-backed sessions. A real-time anomaly module catches irregular spending at **98% precision**, while a **BERT NER** lifts merchant names cleanly out of raw Plaid blobs.
-
-<sub>`500K+` users   •   `99.998%` uptime through `300%+` traffic surge   •   `+25%` weekly engagement</sub>
 
 ---
 
