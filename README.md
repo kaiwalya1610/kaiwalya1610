@@ -157,12 +157,25 @@ My stack moves freely between **Python, C/C++, CUDA, TypeScript** and I've shipp
 
 <br/>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 🛰️  `OP-01` · Autonomous USV — Perception, SLAM & Path Planning
 > **Client:** Indian Navy (IDEX) · **Role:** Lead Developer · **Stack:** C++ · ROS · CUDA · SLAM · Sensor Fusion
 
 A real-time marine perception stack fusing **RGB, IR, and radar** with custom drivers, married to a **SLAM + IMU + GPS + RADAR** odometry pipeline that holds dead-reckoning in GPS-denied waters. A proprietary **A\* variant** delivered a **13× (1,200%)** speedup in live navigation while cutting compute overhead by **90%**.
 
 <sub>`95%` situational-awareness accuracy   •   `40%` better obstacle detection in low-visibility   •   `13×` path-planning speedup</sub>
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="./autonomous_boat.webp" alt="Autonomous USV — perception, SLAM, and path planning" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
